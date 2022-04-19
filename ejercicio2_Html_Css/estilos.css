@@ -1,0 +1,93 @@
+#cardtype1 {
+  margin-top: 40px;
+  border-radius: 5%;
+  margin-left: 20px;
+  width: 300px;
+  height: fit-content;
+  float: left;
+
+  background-color: rgba(255, 255, 255, 0.55);
+}
+
+#date {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#cardtype2 {
+  margin-top: 40px;
+  border-radius: 5%;
+  margin-left: 20px;
+  width: 260px;
+  height: 400px;
+  float: left;
+
+  background-color: rgba(255, 255, 255, 0.55);
+}
+#WhiteBoard {
+  background-color: white;
+  height: 150px;
+  margin-bottom: 20px;
+  border-radius: 5%;
+}
+#Crossbutton {
+  float: right;
+  height: 20px;
+  width: 20px;
+  background-image: url(./Delete-Red-X-Button-PNG-Images.png);
+  background-size: cover;
+}
+
+#WhiteBoard:hover{
+  background-color: turquoise;
+  color: white;
+  transition: 0.5s;
+}
+#img {
+  width: 200px;
+  height: 120px;
+  display: block;
+  margin: auto;
+}
+#img2 {
+  width: 200px;
+  height: 225px;
+  display: block;
+  margin: auto;
+}
+#icon_escritorio{
+  color: greenyellow;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+#icon_device{
+  color: red;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+#icon_dado{
+  color: yellow;
+  margin-right: 20px;
+  transition: 0.3s;
+  
+}
+
+
+#icon_escritorio:hover{
+color: black;
+transition: 0.3s;
+}
+#icon_device:hover{
+  color: black;
+  transition: 0.3s;
+
+}
+#icon_dado:hover{
+  color: black;
+  transition: 0.3s;
+ 
+  
+}
